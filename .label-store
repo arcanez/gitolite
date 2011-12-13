@@ -10,6 +10,7 @@
   'README_t_playing_with_gitolite_' => 't_.html#README_t_playing_with_gitolite_ "playing with gitolite"',
   'README_t_terminology_' => 't_.html#README_t_terminology_ "terminology"',
   'README_t_testing_gitolite_' => 't_.html#README_t_testing_gitolite_ "testing gitolite"',
+  '_emacsmode' => '_emacsmode.html "Emacs major mode for gitolite.conf"',
   'aac' => 'aac.html "advanced access control"',
   'able' => 'ADCs.html#able "enable/disable push access temporarily"',
   'ad/m-dtls' => 'mirroring.html#ad/m-dtls "details"',
